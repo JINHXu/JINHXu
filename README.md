@@ -1,5 +1,5 @@
 ### Hi there 👋
-I've seen a lot of folks done this, I might as well get one.
+I've seen a lot of folks done this, might as well get one myself.
 
 跟风儿整一个<br>
 哈哈哈哈哈哈哈哈
