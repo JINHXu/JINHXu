@@ -1,9 +1,14 @@
 ### Hi there 👋
 I study & do NLP, recently most interested in Speech processing. <br>
 I train machines to listen, understand and talk. <br>
+
 <br>
 我的目标是让机器成精<br>
+<br>
 
+
+_It is very unfortunate I recently became a jobber, most of my work are not open-source not on GitHub.<br>
+Stay tuned for the next open-source app..._
 
 
 <!--
