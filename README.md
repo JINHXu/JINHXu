@@ -11,6 +11,11 @@ _It is very unfortunate I recently became a jobber, most of my work are not open
 Stay tuned for the next open-source app..._
 
 
+About me:<br>
+born 11.11.1998<br>
+徐帅呆，九八年光棍节生人。
+
+
 <!--
 **JINHXu/JINHXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
