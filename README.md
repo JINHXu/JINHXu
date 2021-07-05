@@ -1,8 +1,10 @@
 ### Hi there 👋
-I've seen a lot of folks done this, might as well make one myself.
+I study & do NLP, recently most interested in Speech processing. <br>
+I train machines to listen, understand and talk. <br>
+<br>
+我的目标是让机器成精<br>
 
-跟风儿整一个<br>
-哈哈哈哈哈哈哈哈
+
 
 <!--
 **JINHXu/JINHXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
