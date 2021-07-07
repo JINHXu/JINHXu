@@ -13,7 +13,8 @@ Stay tuned for the next open-source app..._
 
 About me:<br>
 born 11.11.1998<br>
-徐帅呆，九八年光棍节生人。
+徐帅呆，九八年光棍节生人。<br>
+（我现在想改名叫徐大条）
 
 
 <!--
