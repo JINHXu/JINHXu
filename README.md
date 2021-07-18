@@ -7,7 +7,7 @@ I train machines to listen, understand and talk. <br>
 <br>
 
 
-_It is very unfortunate I recently became a jobber, most of my work are not open-source not on GitHub.<br>
+_It is very unfortunate I recently became a jobber, most of my work is not open-source not on GitHub.<br>
 Stay tuned for the next open-source app..._
 
 
