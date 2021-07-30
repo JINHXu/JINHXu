@@ -3,7 +3,7 @@ I study & do NLP, recently most interested in Speech processing. <br>
 I train machines to listen, understand and talk. <br>
 
 <br>
-我的目标是让机器成精（说话精）<br>
+我的目标是让机器成精<br>
 <br>
 
 
