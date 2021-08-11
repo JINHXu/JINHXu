@@ -16,6 +16,12 @@ born 11.11.1998<br>
 徐帅呆，九八年光棍节生人。<br>
 （我现在想改名叫徐大条）
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINHXu&show_icons=true&theme=radical&cache_seconds=200*300)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINHXu&langs_count=8)
+
+
+
 
 <!--
 **JINHXu/JINHXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
