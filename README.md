@@ -17,7 +17,14 @@ born 11.11.1998<br>
 （我现在想改名叫徐大条）
 
 ![访问者](https://visitor-badge.glitch.me/badge?page_id=JINHXu)
+
 ![](https://img.shields.io/badge/Language-Python-orange)  
+
+![](https://img.shields.io/badge/Language-R-blue)
+![](https://img.shields.io/badge/Language-Java-red)
+![](https://img.shields.io/badge/Language-Julia-purple)  
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINHXu&show_icons=true&theme=radical&cache_seconds=200*300)
