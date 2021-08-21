@@ -6,11 +6,6 @@ I train machines to listen, understand and talk. <br>
 我的目标是让机器成精<br>
 <br>
 
-
-_It is very unfortunate I recently became a jobber, most of my recent work is not open-source not on GitHub.<br>
-Stay tuned for the next open-source app..._
-
-
 About me:<br>
 born 11.11.1998<br>
 徐帅呆，九八年光棍节生人。<br>
