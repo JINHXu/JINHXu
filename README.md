@@ -19,6 +19,9 @@ born 11.11.1998<br>
 ![](https://img.shields.io/badge/Language-Java-red)
 ![](https://img.shields.io/badge/Language-Julia-purple)  
 
+![](https://img.shields.io/badge/Language-SQL-blue)
+![](https://img.shields.io/badge/Language-XQuery-yellow)
+![](https://img.shields.io/badge/Language-Cypher-green)  
 
 
 
