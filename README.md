@@ -24,6 +24,9 @@ born 11.11.1998<br>
 ![](https://img.shields.io/badge/Language-Cypher-green)  
 
 
+![](https://img.shields.io/badge/Language-C-blue)
+![](https://img.shields.io/badge/Language-Prolog-red)  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINHXu&show_icons=true&theme=radical&cache_seconds=200*300)
 
