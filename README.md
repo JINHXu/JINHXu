@@ -2,7 +2,7 @@
 I study & do NLP, I have been most intersted in speech processing but my recent focus has shifted back to text classfication again.
 
 <br>
-我的目标是让机器成精<br>
+And my recent work will be open-source.<br>
 <br>
 
 About me:<br>
