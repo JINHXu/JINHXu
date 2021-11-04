@@ -1,6 +1,5 @@
 ### Hi there 👋
-I study & do NLP, recently most interested in Speech processing. <br>
-I train machines to listen, understand and talk. <br>
+I study & do NLP, I have been most intersted in speech processing but my recent focus has shifted back to text classfication again.
 
 <br>
 我的目标是让机器成精<br>
