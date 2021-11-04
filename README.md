@@ -1,10 +1,6 @@
 ### Hi there 👋
 I study & do NLP, I have been most intersted in speech processing but my recent focus has shifted back to text classfication again.
 
-<br>
-And my recent work will be open-source.<br>
-<br>
-
 About me:<br>
 born 11.11.1998<br>
 徐帅呆，九八年光棍节生人。<br>
