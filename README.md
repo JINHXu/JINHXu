@@ -1,5 +1,5 @@
 ### Hi there 👋
-I study & do NLP, I have been most intersted in speech processing but my recent focus has shifted back to text classfication again.
+I study & do NLP, I have been most intersted in speech processing but my recent focus has shifted back to text classfication.
 
 About me:<br>
 born 11.11.1998<br>
