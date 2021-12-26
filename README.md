@@ -14,8 +14,8 @@ __WS21/22__ is about algorithms, open competitions, automatic solution to statis
 * Meanwhile cracking Leetcode problems, will be sharing my solutions here soon...
 
 
-关于我/about me/über mich:<br>
-born 11.11.1998<br>
+#### 关于我/about me/über mich:<br>
+born on the magical day of 11.11.1998<br>
 徐帅呆，九八年光棍节生人。<br>
 （我现在想改名叫徐大条）
 
