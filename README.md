@@ -1,15 +1,15 @@
 ### Hi there 👋
 I study & do NLP, I am most interested in speech processing but my recent focus has shifted back to text classfication.
 
-#### News, pending paper & projects
+#### News, pending papers & projects
 
 It is yet another online Zoom semester. 
 
 __WS21/22__ is about algorithms, open competitions, automatic solution to statistical text classification, open-source projects and ethical discussions in NLP.
 
-* A paper on solutions to PCL (patronizing & condescending language) detection coming soon... _(SemEval2022-task4)_
+* JD at SemEval2022 Task 4: RoBERTa vs Traditional Ensemble Models for Patronizing and Condescending Language Detection.
 
-* _"Where would you start and what solutions are there to try for binary text classification (more specifically in the genre of toxic language: hate speech, PCL and ect..)?"_ The project will come with a tutorial review & example code off the shelf for use
+* How much hate with #china? Analyzing China-related hateful tweets two years after the Covid pandemic 
 
 * Meanwhile cracking Leetcode problems, will be sharing my solutions here soon...
 
