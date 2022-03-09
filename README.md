@@ -3,13 +3,11 @@ I study & do NLP, I am most interested in speech processing but my recent focus 
 
 #### News, pending papers & projects
 
-It is yet another online Zoom semester. 
-
-__WS21/22__ is about algorithms, open competitions, automatic solution to statistical text classification, open-source projects and ethical discussions in NLP.
-
 * Xu at SemEval2022 Task 4: pre-BERT Neural Network Methods vs post-BERT RoBERTa Approach for Patronizing and Condescending Language Detection
 
 * How much hate with #china? Analyzing China-related hateful tweets two years after the Covid pandemic 
+
+* \#StopAsianHate: Comparing models for anti-asian hate speech detection
 
 * Meanwhile cracking Leetcode problems, will be sharing my solutions here soon...
 
