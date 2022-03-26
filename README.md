@@ -3,7 +3,7 @@ I study & do NLP, I am most interested in speech processing but my recent focus 
 
 #### News, pending papers & projects
 
-* Xu at SemEval2022 Task 4: pre-BERT Neural Network Methods vs post-BERT RoBERTa Approach for Patronizing and Condescending Language Detection
+* Xu at SemEval-2022 Task 4: pre-BERT Neural Network Methods vs post-BERT RoBERTa Approach for Patronizing and Condescending Language Detection
 
 * How much hate with #china? Analyzing China-related hateful tweets two years after the Covid pandemic 
 
