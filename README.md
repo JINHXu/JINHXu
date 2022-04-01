@@ -7,8 +7,6 @@ I study & do NLP, I am most interested in speech processing but my recent focus 
 
 * How much hate with #china? Analyzing China-related hateful tweets two years after the Covid pandemic 
 
-* \#StopAsianHate: Comparing models for anti-asian hate speech detection
-
 * Meanwhile cracking Leetcode problems, will be sharing my solutions here soon...
 
 
