@@ -1,5 +1,5 @@
 ### Hi there 👋
-I study & do NLP, I am most interested in speech processing. I've recently started studying multi-modality in combining vision and lanaguge input. 
+I study & do NLP. 
 
 #### News, pending papers & projects
 
