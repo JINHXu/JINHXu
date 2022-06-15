@@ -1,5 +1,5 @@
 ### Hi there 👋
-I study & do NLP. 
+I study & do NLP. This programmer recently got emotional, therefore have no new commits LOL
 
 #### News, pending papers & projects
 
