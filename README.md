@@ -1,14 +1,7 @@
 ### Hi there 👋
 I study & do NLP. 
 
-#### News, pending papers & projects
-
-* Xu at SemEval-2022 Task 4: pre-BERT Neural Network Methods vs post-BERT RoBERTa Approach for Patronizing and Condescending Language Detection
-
-* How much hate with #china? A preliminary analysis on China-related hateful tweets two years after the Covid pandemic began
-
-* Meanwhile cracking Leetcode problems, will be sharing my solutions here soon...
-
+No news recently. 
 
 #### 关于我/about me/über mich:<br>
 徐帅呆，九八年光棍节生人。<br>
