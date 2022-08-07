@@ -1,7 +1,11 @@
 ### Hi there 👋
 I study & do NLP. 
 
-No news recently. 
+I wrote a short review on __text-based \& image-based NER__. \[[pdf](https://drive.google.com/file/d/1TvvJaq2yK0qPxE2RNb0_O2y_me5b82xS/view?usp=sharing)\]
+
+No more news. I'm on vacation. 
+
+More shits to come after vacation. 
 
 #### 关于我/about me/über mich:<br>
 徐帅呆，九八年光棍节生人。<br>
