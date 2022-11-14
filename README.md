@@ -4,7 +4,7 @@ I study & do NLP.
 
 #### 关于我/about me/über mich:<br>
 徐帅呆，九八年光棍节生人。<br>
-（我现在想改名叫徐大条）
+（帅呆取自古汉语 “帅呆了，酷毙了”）
 
 ![访问者](https://visitor-badge.glitch.me/badge?page_id=JINHXu)
 
