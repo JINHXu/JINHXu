@@ -4,15 +4,15 @@ I study & do NLP.
 
 My research interests (topics I have been working on and will continue working with):
 
-* Text classification and corresponsing data annotation (mostly for toxic language such as hate speech and PCL detection), social media analysis
+* __Toxic language detection__(mostly hate speech and PCL) and corresponsing data annotation, __social media analysis__
 
-* Speech Processing (ASR, speaker identification/verification, etc.)
+* __Speech Processing__ (ASR, speaker identification/verification, etc.)
 
-* Multi-modal learning: integrating visual/medical/physiological features and natural language to train models for various purposes (e.g. visual entity recognition, VLN, Early Sepsis Prediction based on vital signs and clinical notes)
+* __Multi-modal learning__: integrating visual/medical/physiological features and natural language to train models for various purposes (e.g. visual entity recognition, VLN, Early Sepsis Prediction based on vital signs and clinical notes)
 
-* Bias and Ethical considerations with LLMs such as BERT and ChatGPT
+* __Bias and Ethical considerations with LLMs__ such as BERT and ChatGPT
 
-* Model generalizability to out-of-distribution data (invariant learning):
+* __Model generalizability__ to out-of-distribution data (invariant learning):
   
   * Evaluation beyond conventional metrics based on benchmark datasets: model significance, validity and reliability
   
