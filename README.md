@@ -1,6 +1,24 @@
 ### Hi there 👋
+
 I study & do NLP. 
 
+My research interests (topics I have been working on and will continue working with):
+
+* Text classification and corresponsing data annotation (mostly for toxic language such as hate speech and PCL detection), social media analysis
+
+* Speech Processing (ASR, speaker identification/verification, etc.)
+
+* Multi-modal learning: integrating visual/medical/physiological features and natural language to train models for various purposes (e.g. visual entity recognition, VLN, Early Sepsis Prediction based on vital signs and clinical notes)
+
+* Bias and Ethical considerations with LLMs such as BERT and ChatGPT
+
+* Model generalizability to out-of-distribution data (invariant learning):
+  
+  * Evaluation beyond conventional metrics based on benchmark datasets: model significance, validity and reliability
+  
+  * Invariant Risk Minimization
+
+_My website is currently a bit out of maintainence, blog articles and educational videos to explain key NLP algorithms will soon be added in the updated version._
 
 #### 关于我/about me/über mich:<br>
 徐帅呆，九八年光棍节生人。<br>
