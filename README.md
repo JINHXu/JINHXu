@@ -8,7 +8,7 @@ My research interests (topics I have been working on and will continue working w
 
 * __Speech Processing__ (ASR, speaker identification/verification, etc.)
 
-* __Multi-modal learning__: integrating visual/medical/physiological features and natural language to train models for various purposes (e.g. visual entity recognition, VLN, Early Sepsis Prediction based on vital signs and clinical notes)
+* __Multi-modal learning__: integrating visual/medical/physiological features and natural language to train models for various purposes (e.g. image-based NER, Document AI, VLN, Early Sepsis Prediction based on vital signs and clinical notes)
 
 * __Bias and Ethical considerations with LLMs__ such as BERT and ChatGPT
 
