@@ -4,7 +4,7 @@ I study & do NLP.
 
 My research interests (topics I have been working on and will continue working with):
 
-* __Toxic language detection__(mostly hate speech and PCL) and corresponsing data annotation, __social media analysis__
+* __Toxic language detection__ (mostly hate speech and PCL) and corresponsing data annotation, __social media analysis__
 
 * __Speech Processing__ (ASR, speaker identification/verification, etc.)
 
