@@ -18,7 +18,6 @@ My research interests (topics I have been working on and will continue working w
   
   * Invariant Risk Minimization
 
-_My website is currently a bit out of maintainence, blog articles and educational videos to explain key NLP algorithms will soon be added in the updated version._
 
 #### 关于我/about me/über mich:<br>
 徐帅呆，九八年光棍节生人。<br>
