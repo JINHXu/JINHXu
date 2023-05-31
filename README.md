@@ -23,7 +23,7 @@ My research interests (topics I have been working on and will continue working w
 
 I blog.
 
-![访问者](https://visitor-badge.glitch.me/badge?page_id=JINHXu)
+![](https://visitor-badge.glitch.me/badge?page_id=JINHXu)
 
 ![](https://img.shields.io/badge/Language-Python-orange)  
 
