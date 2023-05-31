@@ -20,8 +20,8 @@ My research interests (topics I have been working on and will continue working w
 
 
 #### 关于我/about me/über mich:<br>
-徐帅呆，九八年光棍节生人。<br>
-（帅呆取自古汉语 “帅呆了，酷毙了”）
+
+I blog.
 
 ![访问者](https://visitor-badge.glitch.me/badge?page_id=JINHXu)
 
