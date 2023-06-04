@@ -2,7 +2,7 @@
 
 I study & do NLP. 
 
-My research interests (topics I have been working on and will continue working with):
+My research interests (topics I have been working on and wish to continue working with):
 
 * __Toxic language detection__ (mostly hate speech and PCL) and corresponsing data annotation, __social media analysis__
 
