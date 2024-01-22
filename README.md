@@ -1,28 +1,3 @@
-### Hi there 👋
-
-I study & do NLP. 
-
-My research interests (topics I have been working on and wish to continue working with):
-
-* __Toxic language detection__ (mostly hate speech and PCL) and corresponsing data annotation, __social media analysis__
-
-* __Speech Processing__ (ASR, speaker identification/verification, etc.)
-
-* __Multi-modal learning__: integrating visual/medical/physiological features and natural language to train models for various purposes (e.g. image-based NER, Document AI, VLN, Early Sepsis Prediction based on vital signs and clinical notes)
-
-* __Bias and Ethical considerations with LLMs__ such as BERT and ChatGPT
-
-* __Model generalizability__ to out-of-distribution data (invariant learning):
-  
-  * Evaluation beyond conventional metrics based on benchmark datasets: model significance, validity and reliability
-  
-  * Invariant Risk Minimization
-
-
-#### 关于我/about me/über mich:<br>
-
-I blog.
-
 ![](https://visitor-badge.glitch.me/badge?page_id=JINHXu)
 
 ![](https://img.shields.io/badge/Language-Python-orange)  
